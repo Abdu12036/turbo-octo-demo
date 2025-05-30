@@ -11,4 +11,5 @@ public class Application{
     public static int get(){
         return 5;
     }
+    // some comment 
 }
