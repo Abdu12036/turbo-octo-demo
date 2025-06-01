@@ -13,4 +13,7 @@ public class Application{
     }
     // some comment 
 
+    public static void experimentalMethod(){
+        System.out.println("This is an experimental method.");
+    }
 }
